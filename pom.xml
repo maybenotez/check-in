@@ -11,6 +11,7 @@
         <module>check-client</module>
         <module>check-facade</module>
         <module>check-common</module>
+        <module>check-dal</module>
     </modules>
     <name>check-in</name>
   <url>http://maven.apache.org</url>
